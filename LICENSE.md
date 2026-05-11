@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with iStat Menus for macOS advanced Automation - file-encryption and window-management, the #1 automation. Includes file-encryption and
 
 
 
